@@ -24,7 +24,7 @@ die Teilnehmer dann das neugelernte Wissen an Beispielen erproben.
 Der folgende Verlaufsplan zeigt gerade in den späteren Wochen Module und Themen, die angeschnitten werden _können_, aber nicht _müssen_.
 Soll heißen, Vorschläge der Studenten werden gerne angenommen.
 
-Verlaufsplan
+Verlaufsplan (vorläufig)
 ------------
 
 ### KW 43 ###
