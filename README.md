@@ -27,7 +27,7 @@ Soll heißen, Vorschläge der Studenten werden gerne angenommen.
 Verlaufsplan (vorläufig)
 ------------
 
-### KW 43 ###
+### 23.10.2015 ###
 
 Grundlagen der Programmierung:
 
@@ -37,7 +37,7 @@ Grundlagen der Programmierung:
 1. Schleifen
 1. Bedingungen
    
-### KW 44 ###
+### 30.10.2015 ###
 
 Datentypen in Python:
 
@@ -48,7 +48,7 @@ Datentypen in Python:
 1. Assoziative Arrays (Dictionaries)
 
 
-### KW 45 ###
+### 06.11.2015 ###
 
 Funktionen
 
@@ -57,7 +57,7 @@ Funktionen
 1. Funktionen als Objekte
 1. Argumente entpacken
 
-### KW 46 ###
+### 13.11.2015 ###
 
 Module 1
 
@@ -67,7 +67,7 @@ Module 1
 1. Virtualenv
 1. Selbsterstellte Module
 
-### KW 47 ###
+### 20.11.2015 ###
 
 Numpy
 
@@ -78,7 +78,7 @@ Numpy
 1. Lineare Algebra
 1. Zufallszahlen
 
-### KW 48 ###
+### 27.11.2015 ###
 
 Scipy
 
@@ -87,50 +87,45 @@ Scipy
     * Lineare Regression
 1. Fourier Transformation
 
-### KW 49 ###
+### 04.12.2015 ###
 
 Matplotlib
 
 1. Funktionen plotten
 1. 2D und 3D Plots
 
-### KW 50 ###
+### 11.12.2015 ###
 
 Statistik mit Pandas
 
 1. Wetterdaten von Halle analysieren
 
-### KW 51 ###
+### 18.12.2015 ###
 
 Molecular Dynamics
 
 1. Verlet Algorithmus
 1. Simulation eines idealen Gases
 
-### KW 52 ### (vllt)
+### 08.01.2016 ###
 
 Schrödinger Gleichung numerisch lösen
 
-//### KW 53 ###
-
-### KW 1 ### (vllt)
+### 15.01.2016 ###
 
 Elektronenstruktur
 
 1. Hartree Fock Methode
 
-### KW 2 ###
+### 22.01.2015 ###
 
 Monte Carlo
 
-### KW 3 ###
+### 29.01.2015 ###
 
 Python beschleunigen
 
 1. Pypy
 1. Cython
 
-### KW 4 ###
-
-Wunschprojekt
 
