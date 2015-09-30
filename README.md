@@ -33,10 +33,10 @@ Verlaufsplan (vorläufig)
 1. Hello World
 1. Datentypen und Variablen
 1. Operatoren
-1. Ein- und Ausgabe
 1. Schleifen
 1. Bedingungen
-   
+1. Ein- und Ausgabe
+
 ### 30.10.2015 ###
 
 **Datentypen in Python:**
