@@ -28,8 +28,7 @@ Verlaufsplan (vorläufig)
 ------------
 
 ### 23.10.2015 ###
-
-Grundlagen der Programmierung:
+**Grundlagen der Programmierung:**
 
 1. Hello World
 1. Datentypen und Variablen
@@ -40,7 +39,7 @@ Grundlagen der Programmierung:
    
 ### 30.10.2015 ###
 
-Datentypen in Python:
+**Datentypen in Python:**
 
 1. Listen
     * List comprehensions
@@ -51,7 +50,7 @@ Datentypen in Python:
 
 ### 06.11.2015 ###
 
-Funktionen
+**Funktionen**
 
 1. Grundlagen
 1. Besonderheiten in Python
@@ -60,7 +59,7 @@ Funktionen
 
 ### 13.11.2015 ###
 
-Module 1
+**Module 1**
 
 1. Importieren von Modulen
 1. Übersicht über die Standard Library
@@ -70,7 +69,7 @@ Module 1
 
 ### 20.11.2015 ###
 
-Numpy
+**Numpy**
 
 1. Arrays
 1. Array Arithmetik
@@ -81,7 +80,7 @@ Numpy
 
 ### 27.11.2015 ###
 
-Scipy
+**Scipy**
 
 1. Integration
 1. Optimization
@@ -90,41 +89,41 @@ Scipy
 
 ### 04.12.2015 ###
 
-Matplotlib
+**Matplotlib**
 
 1. Funktionen plotten
 1. 2D und 3D Plots
 
 ### 11.12.2015 ###
 
-Statistik mit Pandas
+**Statistik mit Pandas**
 
 1. Wetterdaten von Halle analysieren
 
 ### 18.12.2015 ###
 
-Molecular Dynamics
+**Molecular Dynamics**
 
 1. Verlet Algorithmus
 1. Simulation eines idealen Gases
 
 ### 08.01.2016 ###
 
-Schrödinger Gleichung numerisch lösen
+**Schrödinger Gleichung numerisch lösen**
 
 ### 15.01.2016 ###
 
-Elektronenstruktur
+**Elektronenstruktur**
 
 1. Hartree Fock Methode
 
 ### 22.01.2015 ###
 
-Monte Carlo
+**Monte Carlo**
 
 ### 29.01.2015 ###
 
-Python beschleunigen
+**Python beschleunigen**
 
 1. Pypy
 1. Cython
