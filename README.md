@@ -24,22 +24,22 @@ die Teilnehmer dann das neugelernte Wissen an Beispielen erproben.
 Der folgende Verlaufsplan zeigt gerade in den späteren Wochen Module und Themen, die angeschnitten werden _können_, aber nicht _müssen_.
 Soll heißen, Vorschläge der Studenten werden gerne angenommen.
 
-Verlaufsplan
+Verlaufsplan (vorläufig)
 ------------
 
-### KW 43 ###
-
-Grundlagen der Programmierung:
+### 23.10.2015 ###
+**Grundlagen der Programmierung:**
 
 1. Hello World
 1. Datentypen und Variablen
-1. Ein- und Ausgabe
+1. Operatoren
 1. Schleifen
 1. Bedingungen
-   
-### KW 44 ###
+1. Ein- und Ausgabe
 
-Datentypen in Python:
+### 30.10.2015 ###
+
+**Datentypen in Python:**
 
 1. Listen
     * List comprehensions
@@ -48,18 +48,18 @@ Datentypen in Python:
 1. Assoziative Arrays (Dictionaries)
 
 
-### KW 45 ###
+### 06.11.2015 ###
 
-Funktionen
+**Funktionen**
 
 1. Grundlagen
 1. Besonderheiten in Python
 1. Funktionen als Objekte
 1. Argumente entpacken
 
-### KW 46 ###
+### 13.11.2015 ###
 
-Module 1
+**Module 1**
 
 1. Importieren von Modulen
 1. Übersicht über die Standard Library
@@ -67,9 +67,9 @@ Module 1
 1. Virtualenv
 1. Selbsterstellte Module
 
-### KW 47 ###
+### 20.11.2015 ###
 
-Numpy
+**Numpy**
 
 1. Arrays
 1. Array Arithmetik
@@ -78,59 +78,54 @@ Numpy
 1. Lineare Algebra
 1. Zufallszahlen
 
-### KW 48 ###
+### 27.11.2015 ###
 
-Scipy
+**Scipy**
 
 1. Integration
 1. Optimization
     * Lineare Regression
 1. Fourier Transformation
 
-### KW 49 ###
+### 04.12.2015 ###
 
-Matplotlib
+**Matplotlib**
 
 1. Funktionen plotten
 1. 2D und 3D Plots
 
-### KW 50 ###
+### 11.12.2015 ###
 
-Statistik mit Pandas
+**Statistik mit Pandas**
 
 1. Wetterdaten von Halle analysieren
 
-### KW 51 ###
+### 18.12.2015 ###
 
-Molecular Dynamics
+**Molecular Dynamics**
 
 1. Verlet Algorithmus
 1. Simulation eines idealen Gases
 
-### KW 52 ### (vllt)
+### 08.01.2016 ###
 
-Schrödinger Gleichung numerisch lösen
+**Schrödinger Gleichung numerisch lösen**
 
-//### KW 53 ###
+### 15.01.2016 ###
 
-### KW 1 ### (vllt)
-
-Elektronenstruktur
+**Elektronenstruktur**
 
 1. Hartree Fock Methode
 
-### KW 2 ###
+### 22.01.2015 ###
 
-Monte Carlo
+**Monte Carlo**
 
-### KW 3 ###
+### 29.01.2015 ###
 
-Python beschleunigen
+**Python beschleunigen**
 
 1. Pypy
 1. Cython
 
-### KW 4 ###
-
-Wunschprojekt
 
