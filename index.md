@@ -1,3 +1,7 @@
+---
+title: index
+---
+
 Python für Naturwissenschaftler
 ===============================
 
@@ -28,7 +32,7 @@ Verlaufsplan (vorläufig)
 ------------
 
 ### 23.10.2015 ###
-**[Grundlagen der Programmierung]({% post_url kurstage/Grundlagen %}):**
+**Grundlagen der Programmierung:**
 
 1. Hello World
 1. Datentypen und Variablen
