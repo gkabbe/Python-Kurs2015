@@ -10,9 +10,11 @@ Python ist im Gegensatz zu Programmiersprachen wie C, C++ oder Fortran eine _Int
 Das bedeutet, dass geschriebener Python-Code nicht kompiliert werden muss. Stattdessen wird der Code zur Laufzeit des Programmes vom Python Interpreter abgearbeitet.
 
 Wenn wir ein Programm mit dem Namen hello_world.py starten möchten, müssen wir in der Konsole daher einfach nur
+
 ```bash
 python3 hello_world.py
 ```
+
 eingeben.
 
 
@@ -21,9 +23,11 @@ eingeben.
 Um einen ersten Eindruck einer Programmiersprache zu geben, beginnen die meisten Tutorials mit einem simplen Programm, das nur die Worte "Hello World" ausgibt. Auch dieses Tutorium macht da keinen Unterschied.
 
 Wir legen eine Textdatei **hello_world.py** mit folgendem Inhalt an:
+
 ```python
 print("Hello World")
 ```
+
 Das "Hello World" Programm zeigt schon gut, worin Pythons große Stärke liegt: die gute Lesbarkeit des Quellcodes!
 In nur einer Zeile steht alles, was nötig ist, um das Programm auszuführen.
 
@@ -31,6 +35,7 @@ Was passiert hier genau? In dem Programm wird die print Funktion aufgerufen. Als
 
 
 Zum Vergleich "Hello World" in Java:
+
 ```java
 class Main{
     public static void main(String[] args){
@@ -38,6 +43,7 @@ class Main{
     }
 }
 ```
+
 # Datentypen und Variablen #
 
 In Python können wir mit folgenden grundlegenden Datentypen arbeiten:
@@ -70,6 +76,7 @@ print(type(string_variable))
 print(type(boolsche_variable))
 ```
 mit den Resultaten
+
 ```
 <class 'int'>
 <class 'float'>
@@ -78,6 +85,7 @@ mit den Resultaten
 <class 'bool'>
 
 ```  
+
 Ein kleiner Hinweis zu Variablennamen:
 Grundsätzlich ist es möglich, seine Variablen zu nennen, wie man möchte, solange sie mit einem Buchstaben beginnen. Sonderzeichen oder Zahlen am Anfang sind nicht erlaubt. Darüberhinaus ist es Konvention, Variablennamen klein zu schreiben und mit Unterstrich zu trennen.
 
@@ -89,13 +97,16 @@ Mit Operatoren ist es uns nun möglich, Werte in unseren Programmen miteinander 
 * Zuweisungsoperator =
   
   Diesen Operator haben wir schon im vorherigen Abschnitt kennengelernt.
+
   ```python
   x = 3
   ```
+
   Dieser Operator weist einer Variablen einen Wert zu.
 
 * Arithmetische Operatoren +, -, *, /, %, **  
   Mit diesen Operatoren können wir einfache arithmetische Ausdrücke berechnen.
+
   ```python
   print(4*3)
   print(10/5)
@@ -104,7 +115,9 @@ Mit Operatoren ist es uns nun möglich, Werte in unseren Programmen miteinander 
   print(14%3)
   print(10**2)
   ```
+
   Ausgabe:
+
   ```
   12
   2.0
@@ -115,22 +128,27 @@ Mit Operatoren ist es uns nun möglich, Werte in unseren Programmen miteinander 
 
   ```
   Wir können diese natürlich auch mit dem Zuweisungs-Operator kombinieren:
+
   ```python
   x = 4*3 + 13/5
   print(x)
   ```
+
   Ausgabe:
+
   ```
   14.6
   ```
 
 * Vergleichsoperatoren ==, <, <=, >, >=  
   Diese Operatoren vergleichen zwei Werte miteinander und geben einen booleschen Wert zurück.
+
   ```python
   print(4 + 3 == 7)
   print(-11 < -13)
   ```
   Ausgabe:
+
   ```
   True
   False
@@ -140,35 +158,44 @@ Mit Operatoren ist es uns nun möglich, Werte in unseren Programmen miteinander 
 * Logische Operatoren not, and, or
   Diese Operatoren akzeptieren als Eingabe boolesche Werte und geben einen booleschen Wert zurück.  
   **not** negiert einen booleschen Wert:
+
   ```python
   print(not False)
   print(not True)
   ```
   Ausgabe:
+
   ```
   True
   False
   ```
   **and** ergibt _True_ wenn beide Eingabewerte _True_ sind, ansonsten _False_
+
   ```python
   x = 7
   print(1+2==3 and 4*4==16)
   print(1+2==3 and False)
   print(x == 7 and x+3 == 10 and True)
   ```
+
   Ausgabe
+
   ```
   True
   False
   True
   ```
+
   **or** ergibt _True_ wenn mindestens einer der beiden Eingabewerte _True_ ist.
+
   ```python
   x = 5
   print(True or False)
   print(x<5 or x>5)
   ```
+
   Ausgabe:
+
   ```
   True
   False
@@ -281,6 +308,7 @@ Anschließend müssen wir die Datei noch schließen.
 ```python
 datei.close()
 ```
+
 In diesem Beispiel gibt es allerdings ein Problem. Angenommen, etwas unvorhergesehenes geschieht, bevor das Programm die Datei schließen kann. In diesem Fall wird f.close() nie ausgeführt. Als Resultat können Speicherprobleme auftreten, oder die Datei wird unlesbar.
 
 Die sichere Variante sieht wie folgt aus:
