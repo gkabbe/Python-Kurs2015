@@ -1,6 +1,7 @@
 ---
 title: index
 layout: post
+markdown: redcarpet
 ---
 
 Python für Naturwissenschaftler
