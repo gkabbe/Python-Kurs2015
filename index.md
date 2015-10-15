@@ -33,7 +33,8 @@ Verlaufsplan (vorläufig)
 
 ### 23.10.2015 ###
 **Grundlagen der Programmierung:**
-[test]({{ site.baseurl }}kurstage/Grundlagen.html)
+[test]({{ site.baseurl }}/kurstage/Grundlagen.html)
+
 1. Hello World
 1. Datentypen und Variablen
 1. Operatoren
