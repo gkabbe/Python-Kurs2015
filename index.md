@@ -1,7 +1,3 @@
----
-title: index
----
-
 Python für Naturwissenschaftler
 ===============================
 
