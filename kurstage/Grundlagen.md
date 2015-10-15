@@ -1,5 +1,6 @@
 ---
 title: Grundlagen
+layout: post
 ---
 
 # Python als Interpreter Sprache #
