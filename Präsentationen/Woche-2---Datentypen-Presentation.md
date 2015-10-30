@@ -8,6 +8,23 @@
     if dozent zu schnell:
         mecker()
     ```
+
+# Heute #
+
+In Python enthaltene Datentypen
+
+* Listen
+  
+    * nützlich für Datensammlungen (Messwerte, Tabellen, ...)
+
+* Mengen(Sets)
+    * Wie mathematische Mengen
+    * Operationen wie Differenz, Schnitt, etc.
+
+* Dictionaries
+    * Verknüpfen Key und Value
+    * Telefonbuch, Wörterbuch, ...
+
     
 # Listen #
 
