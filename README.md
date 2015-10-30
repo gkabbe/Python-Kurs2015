@@ -42,7 +42,6 @@ Verlaufsplan (vorläufig)
 **Datentypen in Python:**
 
 1. Listen
-    * List comprehensions
 1. Tupel und Sequenzen
 1. Mengen (Sets)
 1. Assoziative Arrays (Dictionaries)
