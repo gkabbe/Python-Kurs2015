@@ -2,7 +2,13 @@
 * Hat es schon jemand geschafft, Python bei sich auf dem Laptop zu installieren?
 * Hat es jemand nicht geschafft und braucht Hilfe?
 * Vorschlag: nach Beendigung der Grundlagen Projektarbeit? Wahl zwischen physikalischen, chemischen, ... Problemstellungen und anschließende kurze Präsentation
+* Erklär-Geschwindigkeit:
 
+    ```python
+    if dozent zu schnell:
+        mecker()
+    ```
+    
 # Listen #
 
 ## Erstellen einer Liste ##
@@ -41,7 +47,8 @@ element3 = dreier_liste[-1] # geht auch von hinten
 ## Entfernen von Elementen ##
 
 ```python
-entferntes_element = meine_liste.pop(2)
+entferntes_element = meine_liste.pop(2) 
+# oder meine_liste.pop(-1)
 ```
 
 ## Listen miteinander verknüpfen ##
@@ -80,6 +87,8 @@ bunt_gemischt = ["hallo", [1, 2, 3], 3.456, 5+3j,
 for element in bunt_gemischt:
     print element
 ```
+
+___
 
 ## Enumerate ##
 
