@@ -42,7 +42,6 @@ Verlaufsplan (vorläufig)
 **Datentypen in Python:**
 
 1. Listen
-    * List comprehensions
 1. Tupel und Sequenzen
 1. Mengen (Sets)
 1. Assoziative Arrays (Dictionaries)
@@ -50,12 +49,10 @@ Verlaufsplan (vorläufig)
 
 ### 06.11.2015 ###
 
-**Funktionen**
+**Funktionen, Klassen & Objekte**
 
-1. Grundlagen
-1. Besonderheiten in Python
-1. Funktionen als Objekte
-1. Argumente entpacken
+1. Funktionen
+1. Klassen, Objekte
 
 ### 13.11.2015 ###
 
