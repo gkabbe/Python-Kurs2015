@@ -40,10 +40,10 @@ print word_count
 word_count = dict()
 
 for word in text.split():
-    if word not in word_count: 
-        word_count[word.lower()] = 1 # Die String Methode lower() macht alle Buchstaben zu Kleinbuchstaben
+    if word.lower() not in word_count: # Die String Methode lower() macht alle Buchstaben zu Kleinbuchstaben
+        word_count[word.lower()] = 1 
     else:
-        word_count[word.lower()] += 1 # hier auch
+        word_count[word.lower()] += 1 
         
 # Noch ein kleiner Trick: 
 from operator import itemgetter # Was hier genau passiert besprechen wir bald...
@@ -53,4 +53,36 @@ print ""
 print "Häufigkeiten:"
 for word, number in sorted(word_count.items(), key=itemgetter(1), reverse=True): # key=itemgetter(i) lässt uns nach dem iten Element in Tupeln sortieren. Um nach der Häufigkeit zu sortieren, müssen wir also itemgetter(1) benutzen
     print number, "x", word
+
+
+# Hier nun die Häufigkeiten der einzelnen Buchstaben:
+
+letter_counter = dict()
+text2 = text.replace(" ", "").replace("\n", "") # Entferne alle Leerzeichen und Zeilenumbrüche aus text
+for letter in text2:
+    if letter.upper() not in letter_counter:
+        letter_counter[letter.upper()] = 1
+    else:
+        letter_counter[letter.upper()] += 1
+print ""
+print ""
+print "Häufigkeiten der einzelnen Buchstaben:"
+for letter, number in sorted(letter_counter.items(), key=itemgetter(1), reverse=True):
+    print number, "x", letter
+
+
+# Welche Wörter kommen in jeder der ersten 6 Zeilen vor?
+beginning = text.splitlines()[:6] # Betrachten nur die ersten 6 Zeilen
+gemeinsame_woerter = set(beginning[0].split()) # Erstelle eine Menge aus den Wörtern der nullten Zeile
+for line in beginning[1:]:
+    gemeinsame_woerter = gemeinsame_woerter & set(line.split()) # die neue Menge ist der Schnitt der alten Menge mit der Menge der Wörter aus der nächsten Zeile
+print ""
+print ""
+print "Gemeinsame Wörter der ersten sechs Zeilen:"
+print gemeinsame_woerter
+
+
+# Liste aller Buchstaben:
+buchstaben = sorted(list(set(text2)))
+print buchstaben
 
