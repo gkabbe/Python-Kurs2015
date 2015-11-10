@@ -49,7 +49,7 @@ Verlaufsplan (vorläufig)
 
 ### 06.11.2015 ###
 
-**Funktionen, Klassen & Objekte**
+**[Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte)**
 
 1. Funktionen
 1. Klassen, Objekte
