@@ -39,7 +39,7 @@ Verlaufsplan (vorläufig)
 
 ### 30.10.2015 ###
 
-**Datentypen in Python:**
+**[Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen):**
 
 1. Listen
 1. Tupel und Sequenzen
