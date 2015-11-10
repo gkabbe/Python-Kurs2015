@@ -28,7 +28,7 @@ Verlaufsplan (vorläufig)
 ------------
 
 ### 23.10.2015 ###
-**Grundlagen der Programmierung:**
+**[Grundlagen der Programmierung](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen):**
 
 1. Hello World
 1. Datentypen und Variablen
