@@ -37,6 +37,9 @@ Verlaufsplan (vorläufig)
 1. Bedingungen
 1. Ein- und Ausgabe
 
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen---%C3%9Cbungen)
+* [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche1)
+
 ### 30.10.2015 ###
 
 **[Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen):**
@@ -45,6 +48,9 @@ Verlaufsplan (vorläufig)
 1. Tupel und Sequenzen
 1. Mengen (Sets)
 1. Assoziative Arrays (Dictionaries)
+
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen--%C3%9Cbungen)
+* [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche2)
 
 
 ### 06.11.2015 ###
