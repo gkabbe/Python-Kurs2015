@@ -60,6 +60,8 @@ Verlaufsplan (vorläufig)
 1. Funktionen
 1. Klassen, Objekte
 
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte-%C3%9Cbungen)
+
 ### 13.11.2015 ###
 
 **Module 1**
