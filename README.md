@@ -40,7 +40,7 @@ Verlaufsplan (vorläufig)
 * [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen---%C3%9Cbungen)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche1)
 
-### 30.10.2015 ###
+### 30.10.2015 - 6.11.2015 ###
 
 **[Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen):**
 
@@ -53,7 +53,7 @@ Verlaufsplan (vorläufig)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche2)
 
 
-### 06.11.2015 ###
+### 13.11.2015 - 20.11.2015 ###
 
 **[Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte)**
 
