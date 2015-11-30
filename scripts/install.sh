@@ -1,3 +1,5 @@
+#!/bin/bash
+
 tmpd=$(mktemp -d)
 cd $tmpd
 wget https://www.python.org/ftp/python/2.7.10/Python-2.7.10.tar.xz
