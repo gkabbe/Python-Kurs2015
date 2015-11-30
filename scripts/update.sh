@@ -1,3 +1,5 @@
+#!/bin/bash
+
 home=$(readlink -e ~)
 source $home/.bashrc
 pip install numpy
