@@ -20,3 +20,5 @@ echo "alias ipython=\"$home/virtualenvs/python2.7/bin/ipython\"" >> $home/.bashr
 
 source $home/.bashrc
 
+./update.sh
+
