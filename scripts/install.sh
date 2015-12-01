@@ -14,11 +14,11 @@ mkdir $home/virtualenvs
 virtualenv -p $home/python2.7.10/bin/python2.7 $home/virtualenvs/python2.7
 wget http://curl.haxx.se/ca/cacert.pem
 mv cacert.pem ~/.cacert.pem
-echo "alias pip=\"$home/virtualenvs/python2.7/bin/pip --cert $home/.cacert.pem\"" >> $home/.bashrc
-echo "alias python=\"$home/virtualenvs/python2.7/bin/python2.7\"" >> $home/.bashrc
-echo "alias ipython=\"$home/virtualenvs/python2.7/bin/ipython\"" >> $home/.bashrc
 
+echo "export PATH=\"$home/virtualenvs/python2.7/bin:$PATH\"" >> $home/.bashrc
+echo "alias pip=\"pip --cert $home/.cacert.pem\"" >> $home/.bashrc
 source $home/.bashrc
 
-./update.sh
+$home/update.sh
+
 
