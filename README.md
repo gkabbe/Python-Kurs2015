@@ -64,7 +64,7 @@ Verlaufsplan (vorläufig)
 
 ### 13.11.2015 ###
 
-**Module 1**
+**[Module](https://github.com/gkabbe/Python-Kurs2015/wiki/4-Module-&-Exceptions)**
 
 1. Importieren von Modulen
 1. Übersicht über die Standard Library
@@ -74,7 +74,7 @@ Verlaufsplan (vorläufig)
 
 ### 20.11.2015 ###
 
-**Numpy**
+**[Numpy](https://github.com/gkabbe/Python-Kurs2015/wiki/5---Numpy)**
 
 1. Arrays
 1. Array Arithmetik
