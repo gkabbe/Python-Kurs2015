@@ -81,7 +81,7 @@ Verlaufsplan (vorläufig)
 1. Indexing/Slicing
 1. Daten einlesen und schreiben
 1. Lineare Algebra
-1. Zufallszahlen
+1. Bildbearbeitung
 
 ### 27.11.2015 ###
 
