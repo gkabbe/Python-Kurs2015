@@ -27,8 +27,7 @@ Soll heißen, Vorschläge der Studenten werden gerne angenommen.
 Verlaufsplan (vorläufig)
 ------------
 
-### 23.10.2015 ###
-**[Grundlagen der Programmierung](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen):**
+### [Grundlagen der Programmierung](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen):###
 
 1. Hello World
 1. Datentypen und Variablen
@@ -40,9 +39,7 @@ Verlaufsplan (vorläufig)
 * [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen---%C3%9Cbungen)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche1)
 
-### 30.10.2015 - 6.11.2015 ###
-
-**[Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen):**
+### [Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen): ###
 
 1. Listen
 1. Tupel und Sequenzen
@@ -53,18 +50,14 @@ Verlaufsplan (vorläufig)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche2)
 
 
-### 13.11.2015 - 20.11.2015 ###
-
-**[Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte)**
+### [Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte) ###
 
 1. Funktionen
 1. Klassen, Objekte
 
 * [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte-%C3%9Cbungen)
 
-### 13.11.2015 ###
-
-**[Module](https://github.com/gkabbe/Python-Kurs2015/wiki/4-Module-&-Exceptions)**
+### [Module](https://github.com/gkabbe/Python-Kurs2015/wiki/4-Module-&-Exceptions) ###
 
 1. Importieren von Modulen
 1. Übersicht über die Standard Library
@@ -72,9 +65,7 @@ Verlaufsplan (vorläufig)
 1. Virtualenv
 1. Selbsterstellte Module
 
-### 20.11.2015 ###
-
-**[Numpy](https://github.com/gkabbe/Python-Kurs2015/wiki/5---Numpy)**
+### [Numpy](https://github.com/gkabbe/Python-Kurs2015/wiki/5---Numpy) ###
 
 1. Arrays
 1. Array Arithmetik
@@ -83,52 +74,36 @@ Verlaufsplan (vorläufig)
 1. Lineare Algebra
 1. Bildbearbeitung
 
-### 27.11.2015 ###
-
-**Scipy**
+### Scipy ###
 
 1. Integration
 1. Optimization
     * Lineare Regression
 1. Fourier Transformation
 
-### 04.12.2015 ###
-
-**Matplotlib**
+### Matplotlib ###
 
 1. Funktionen plotten
 1. 2D und 3D Plots
 
-### 11.12.2015 ###
-
-**Statistik mit Pandas**
+### Statistik mit Pandas ###
 
 1. Wetterdaten von Halle analysieren
 
-### 18.12.2015 ###
-
-**Molecular Dynamics**
+### Molecular Dynamics ###
 
 1. Verlet Algorithmus
 1. Simulation eines idealen Gases
 
-### 08.01.2016 ###
+### Schrödinger Gleichung numerisch lösen ###
 
-**Schrödinger Gleichung numerisch lösen**
-
-### 15.01.2016 ###
-
-**Elektronenstruktur**
+### Elektronenstruktur ###
 
 1. Hartree Fock Methode
 
-### 22.01.2015 ###
+### Monte Carlo ###
 
-**Monte Carlo**
-
-### 29.01.2015 ###
-
-**Python beschleunigen**
+### Python beschleunigen ###
 
 1. Pypy
 1. Cython
