@@ -74,17 +74,18 @@ Verlaufsplan (vorläufig)
 1. Lineare Algebra
 1. Bildbearbeitung
 
-### Scipy ###
+### Scipy & Matplotlib ###
+
+#### Scipy ####
+
 
 1. Integration
-1. Optimization
-    * Lineare Regression
-1. Fourier Transformation
+1. Lineare Regression/Funktionen fitten
 
-### Matplotlib ###
+#### Matplotlib ####
 
 1. Funktionen plotten
-1. 2D und 3D Plots
+1. Histogramme
 
 ### Statistik mit Pandas ###
 
