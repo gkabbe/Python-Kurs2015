@@ -74,7 +74,7 @@ Verlaufsplan (vorläufig)
 1. Lineare Algebra
 1. Bildbearbeitung
 
-### Scipy & Matplotlib ###
+### [Scipy & Matplotlib](https://github.com/gkabbe/Python-Kurs2015/wiki/Scipy-&-Matplotlib) ###
 
 #### Scipy ####
 
@@ -87,7 +87,7 @@ Verlaufsplan (vorläufig)
 1. Funktionen plotten
 1. Histogramme
 
-### Statistik mit Pandas ###
+### [Datenanalyse mit Pandas](https://github.com/gkabbe/Python-Kurs2015/wiki/Wetterdaten-mit-Pandas--%C3%9Cbung) ###
 
 1. Wetterdaten von Halle analysieren
 
