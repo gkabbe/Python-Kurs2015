@@ -27,7 +27,7 @@ Soll heißen, Vorschläge der Studenten werden gerne angenommen.
 Verlaufsplan (vorläufig)
 ------------
 
-### [Grundlagen der Programmierung](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen):###
+### [Grundlagen der Programmierung](https://github.com/gkabbe/Python-Kurs2015/wiki/1----Grundlagen):###
 
 1. Hello World
 1. Datentypen und Variablen
