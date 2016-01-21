@@ -39,7 +39,7 @@ Verlaufsplan (vorläufig)
 * [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen---%C3%9Cbungen)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche1)
 
-### [Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen): ###
+### [Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/2---Datentypen): ###
 
 1. Listen
 1. Tupel und Sequenzen
