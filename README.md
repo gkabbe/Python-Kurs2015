@@ -36,7 +36,7 @@ Verlaufsplan (vorläufig)
 1. Bedingungen
 1. Ein- und Ausgabe
 
-* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-1---Grundlagen---%C3%9Cbungen)
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/1----Grundlagen-%C3%9Cbungen)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche1)
 
 ### [Datentypen in Python](https://github.com/gkabbe/Python-Kurs2015/wiki/2---Datentypen): ###
@@ -46,7 +46,7 @@ Verlaufsplan (vorläufig)
 1. Mengen (Sets)
 1. Assoziative Arrays (Dictionaries)
 
-* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-2---Datentypen--%C3%9Cbungen)
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/2-Datentypen-%C3%9Cbungen)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche2)
 
 
@@ -55,7 +55,8 @@ Verlaufsplan (vorläufig)
 1. Funktionen
 1. Klassen, Objekte
 
-* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte-%C3%9Cbungen)
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/3-Funktionen,-Klassen-und-Objekte-%C3%9Cbungen)
+* [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche3)
 
 ### [Module](https://github.com/gkabbe/Python-Kurs2015/wiki/4-Module-&-Exceptions) ###
 
@@ -65,6 +66,9 @@ Verlaufsplan (vorläufig)
 1. Virtualenv
 1. Selbsterstellte Module
 
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/4-Module-&-Exceptions-%C3%9Cbungen)
+* [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche4)
+
 ### [Numpy](https://github.com/gkabbe/Python-Kurs2015/wiki/5---Numpy) ###
 
 1. Arrays
@@ -73,6 +77,9 @@ Verlaufsplan (vorläufig)
 1. Daten einlesen und schreiben
 1. Lineare Algebra
 1. Bildbearbeitung
+
+* [Übungen](https://github.com/gkabbe/Python-Kurs2015/wiki/5-Numpy-%C3%9Cbungen)
+* [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche5)
 
 ### [Scipy & Matplotlib](https://github.com/gkabbe/Python-Kurs2015/wiki/Scipy-&-Matplotlib) ###
 
