@@ -50,7 +50,7 @@ Verlaufsplan (vorläufig)
 * [Lösungen](https://github.com/gkabbe/Python-Kurs2015/tree/master/L%C3%B6sungen/Woche2)
 
 
-### [Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/Woche-3---Funktionen,-Klassen-und-Objekte) ###
+### [Funktionen, Klassen & Objekte](https://github.com/gkabbe/Python-Kurs2015/wiki/3-Funktionen,-Klassen-und-Objekte) ###
 
 1. Funktionen
 1. Klassen, Objekte
