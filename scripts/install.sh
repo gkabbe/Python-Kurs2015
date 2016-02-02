@@ -17,8 +17,8 @@ mv cacert.pem ~/.cacert.pem
 
 echo "export PATH=\"$home/virtualenvs/python2.7/bin:$PATH\"" >> $home/.bashrc
 echo "alias pip=\"pip --cert $home/.cacert.pem\"" >> $home/.bashrc
-source $home/.bashrc
 
-$home/update.sh
+source $home/.bashrc
+source update.sh
 
 
