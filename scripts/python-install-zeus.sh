@@ -9,6 +9,8 @@ else
     echo "Found virtualenv package"
 fi
 
+rm -f ~/$venv_version.tar.gz
+
 if [ ! -d ~/virtualenvs ]
 then
     mkdir ~/virtualenvs
