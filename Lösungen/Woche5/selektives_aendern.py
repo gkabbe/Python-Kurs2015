@@ -31,10 +31,10 @@ riddle = np.array([[ 533.,  502.,  530.,  591.,  552.,  563.,  508.,  581.,  570
                    [ 536.,  578.,  502.,  522.,  531.,  525.,  587.,  580.,  501.,  487.,  439.,  432.,  478.,  443.,  405.,  548.,  533.,  439.,  486.,  415.,  476.,  417.,  472.,  541.,  528.,  595.,  531.,  549.],
                    [ 548.,  562.,  550.,  561.,  584.,  598.,  572.,  584.,  581.,  544.,  577.,  591.,  548.,  530.,  512.,  552.,  587.,  511.,  577.,  565.,  591.,  560.,  565.,  595.,  544.,  556.,  585.,  520.]])
 
-riddle[np.where(np.logical_and(riddle >= 200, riddle <= 300))] = 0
-riddle[np.where(np.logical_and(riddle >= 300, riddle <= 400))] = 40
-riddle[np.where(np.logical_and(riddle >= 400, riddle <= 500))] = 156
-riddle[np.where(np.logical_and(riddle >= 600, riddle <= 700))] = 220
+riddle[np.logical_and(riddle >= 200, riddle <= 300)] = 0
+riddle[np.logical_and(riddle >= 300, riddle <= 400)] = 40
+riddle[np.logical_and(riddle >= 400, riddle <= 500)] = 156
+riddle[np.logical_and(riddle >= 600, riddle <= 700)] = 220
 
 riddle = np.array(riddle, dtype=np.uint8)
 
