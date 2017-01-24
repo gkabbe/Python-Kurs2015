@@ -1,5 +1,5 @@
 baseurl: /Python-Kurs2015
-highlighter: pygments
+highlighter: rouge
 
 title: Python-Kurs 2015
 description: Unterlagen und Programme für den Python Kurs
