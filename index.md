@@ -3,7 +3,7 @@ Python für Naturwissenschaftler
 
 ![http://imgs.xkcd.com/comics/python.png]( http://imgs.xkcd.com/comics/python.png )
 
-(Quelle: [xkcd]( https://xkcd.com/353/))
+(Quelle: [xkcd](https://xkcd.com/353/))
 
 Kurs-Beschreibung
 -----------------
@@ -28,7 +28,7 @@ Verlaufsplan (vorläufig)
 ------------
 
 ### 23.10.2015 ###
-**Grundlagen der Programmierung:**
+**[Grundlagen der Programmierung:](https://gkabbe.github.io/Python-Kurs2015/kurstage/Grundlagen)**
 
 1. Hello World
 1. Datentypen und Variablen
