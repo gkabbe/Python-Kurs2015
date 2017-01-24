@@ -1,9 +1,3 @@
----
-title: index
-layout: post
-markdown: redcarpet
----
-
 Python für Naturwissenschaftler
 ===============================
 
@@ -35,7 +29,6 @@ Verlaufsplan (vorläufig)
 
 ### 23.10.2015 ###
 **Grundlagen der Programmierung:**
-[test]({{ site.baseurl }}/kurstage/Grundlagen.html)
 
 1. Hello World
 1. Datentypen und Variablen
