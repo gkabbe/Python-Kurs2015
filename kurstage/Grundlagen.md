@@ -1,8 +1,3 @@
----
-title: Grundlagen
-layout: post
----
-
 # Python als Interpreter Sprache #
 
 Python ist im Gegensatz zu Programmiersprachen wie C, C++ oder Fortran eine _Interpretersprache_.
