@@ -1,7 +1,6 @@
 ---
 title: Grundlagen
 layout: post
-markdown: redcarpet
 ---
 
 # Python als Interpreter Sprache #
